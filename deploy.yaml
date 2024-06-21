@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: gowri9493/todo-app:v1
+        image: gowri9493/cicd-e2e:v1
         ports:
         - containerPort: 8000
